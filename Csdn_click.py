@@ -41,7 +41,7 @@ class Csdn_click(object):
             "size": "20",
             "businessType": "blog",
             "noMore": "false",
-            "username": "wjg1314521"
+            "username": "xxx"
         }
 
     def exit(self):
