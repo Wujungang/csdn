@@ -16,3 +16,7 @@ self.data = {
 requests (2.22.0)
 selenium (3.141.0)
 jsonpath (0.82)
+
+启动命令
+python  Csdn_click.py
+Python2  python3均可
